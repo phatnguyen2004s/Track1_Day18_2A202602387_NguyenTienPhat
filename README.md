@@ -37,7 +37,8 @@ Ba phương án cùng giải quyết tình huống người học chưa hiểu n
 ## Option A — Giải thích thuật ngữ ngay trên slide
 
 **Người phụ trách:** Nguyễn Tiến Phát — MHV: 2A202602387  
-**Prototype:** [prototype_phat — Option A](prototypes/prototype_phat/prototype/option-a.html) · [Hướng dẫn và checklist](prototypes/prototype_phat/README.md)
+**Prototype:** [prototype_phat — Option A](prototypes/prototype_phat/prototype/option-a.html) · [Hướng dẫn và checklist](prototypes/prototype_phat/README.md)  
+**Link trải nghiệm công khai:** <https://phatnguyen2004s.github.io/Track1_Day18_2A202602387_NguyenTienPhat/prototypes/prototype_phat/prototype/option-a.html>
 
 - **Cơ chế và luồng tương tác:** Người học hover vào thuật ngữ trên slide để thấy dấu hiệu tương tác, sau đó bấm vào thuật ngữ. Một pop-up xuất hiện cạnh phần vừa chọn, hiển thị nội dung giải thích tương ứng. Người học đọc, đóng pop-up hoặc bấm thuật ngữ khác rồi tiếp tục học.
 - **Vai trò Người–AI:** Người học chủ động quyết định khi nào cần hỗ trợ và thuật ngữ nào cần làm rõ. Vai trò AI được mô phỏng bằng việc cung cấp lời giải thích theo thuật ngữ đã bấm; hệ thống không tự chen vào luồng học.
@@ -49,7 +50,8 @@ Ba phương án cùng giải quyết tình huống người học chưa hiểu n
 ## Option B — Kiểm tra mức độ hiểu và hỗ trợ chủ động (Guided Check)
 
 **Người phụ trách:** Đào Trọng Khang — MHV: 2A202602974  
-**Prototype:** [prototype_khang — Option B3](prototypes/prototype_khang.html)
+**Prototype:** [prototype_khang — Option B3](prototypes/prototype_khang.html)  
+**Link trải nghiệm công khai:** <https://phatnguyen2004s.github.io/Track1_Day18_2A202602387_NguyenTienPhat/prototypes/prototype_khang.html>
 
 - **Cơ chế và luồng tương tác:** Sau khi người học bắt đầu và ở lại slide Double Diamond đủ thời gian, hệ thống tự mở hộp thoại hỏi đã hiểu slide chưa. Người học chọn “Tôi đã hiểu, tiếp tục” hoặc chọn một trong ba khó khăn: hai viên kim cương, mối liên hệ giữa bốn giai đoạn, hay Divergence/Convergence. Với lựa chọn chưa hiểu, hệ thống hiển thị giải thích chung, ví dụ, ý chính và phần trả lời theo khó khăn đã chọn.
 - **Vai trò Người–AI:** Hệ thống chủ động xác định thời điểm hỏi từ tín hiệu thời gian ở lại slide. Người học xác nhận mức độ hiểu và chọn vấn đề cần làm rõ; thời gian ở lại không được coi là kết luận chắc chắn rằng họ chưa hiểu.
@@ -61,7 +63,8 @@ Ba phương án cùng giải quyết tình huống người học chưa hiểu n
 ## Option C — Giải thích phần nội dung do người học khoanh chọn (C2)
 
 **Người phụ trách:** Đỗ Trọng Bình — MHV: 2A202602855  
-**Prototype dùng kiểm thử:** [prototype_binh — C2](prototypes/prototype_binh/prototype-c2-region.html)
+**Prototype dùng kiểm thử:** [prototype_binh — C2](prototypes/prototype_binh/prototype-c2-region.html)  
+**Link trải nghiệm công khai:** <https://phatnguyen2004s.github.io/Track1_Day18_2A202602387_NguyenTienPhat/prototypes/prototype_binh/prototype-c2-region.html>
 
 - **Cơ chế và luồng tương tác:** Người học kéo chuột khoanh vùng sơ đồ cần làm rõ hoặc dùng nút chọn vùng nhanh. Panel trợ lý hiển thị ảnh preview để kiểm tra phần đã chọn. Người học có thể để trống câu hỏi để nhận giải thích chung, hoặc nhập thêm yêu cầu như hỏi ví dụ, hỏi sâu về một giai đoạn rồi gửi yêu cầu giải thích.
 - **Vai trò Người–AI:** Người học quyết định thời điểm hỏi, phạm vi nội dung và trọng tâm câu hỏi. Vai trò AI là giải thích theo phần được chọn và ngữ cảnh bài học; trong prototype, phản hồi này được mô phỏng bằng nội dung dựng sẵn.

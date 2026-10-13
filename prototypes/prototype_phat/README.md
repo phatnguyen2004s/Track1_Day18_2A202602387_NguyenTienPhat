@@ -65,4 +65,4 @@ Thuật ngữ không khớp ý nào sẽ hiển thị phần tổng quan Double 
 
 ## Trạng thái kiểm tra
 
-Logic mở và đóng pop-up, nội dung theo từng thuật ngữ, trạng thái trên slide 6/7 và nút Bắt đầu lại đã được kiểm tra bằng cách chạy mã trong trình duyệt (giả lập sự kiện bấm). Hiệu ứng hover, vị trí và bố cục pop-up chưa được kiểm tra bằng thao tác chuột thật; cần chạy checklist trên Chrome hoặc Edge trước khi giao cho tester.
+Đã kiểm tra trên trình duyệt qua link GitHub Pages công khai, cửa sổ rộng 1440 px: hover làm nổi bật thuật ngữ; bấm bằng chuột thật mở pop-up cách thuật ngữ khoảng 10 px và nằm gọn trong khung hình; nội dung theo từng thuật ngữ đúng bảng ở trên; đóng bằng Escape; không có lỗi trong console. Logic bấm lại cùng thuật ngữ, bấm ra ngoài, nút ×, đổi kích thước cửa sổ, chuyển slide 6/7 và nút Bắt đầu lại được kiểm tra bằng cách giả lập sự kiện. Chưa kiểm tra trên màn hình cảm ứng và trên Safari.
