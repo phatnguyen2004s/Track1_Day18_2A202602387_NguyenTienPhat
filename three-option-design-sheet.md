@@ -7,6 +7,8 @@
 
 Khi đang học slide và gặp phần chưa hiểu trong lúc bài giảng vẫn tiếp tục, người học phải rời luồng bài để tìm công cụ giải thích bên ngoài hoặc ghi lại để xem sau. Việc chụp màn hình, chuyển tab và mô tả lại ngữ cảnh làm mất thời gian, trì hoãn việc làm rõ và có thể khiến kiến thức chưa hiểu tích tụ.
 
+**Điểm tựa Day 17 và ẩn số:** xem [README, mục 2](README.md#2-hypothesis-problem); dữ kiện Day 17 hiện mới ở mức một người mỗi buổi phỏng vấn và có cả dữ kiện ủng hộ lẫn thử thách giả thuyết.
+
 **Mục tiêu thiết kế:** Giúp người học làm rõ nội dung ngay trong ngữ cảnh bài học, đồng thời có quyền quyết định sử dụng hỗ trợ và tiếp tục học.
 
 **Nội dung dùng chung:** Slide “Evidence về problem không phải evidence về solution”, sơ đồ Double Diamond và bốn giai đoạn Discover, Define, Develop, Deliver. Ba prototype đều có luồng chuyển sang hai slide tiếp theo.

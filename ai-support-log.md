@@ -7,7 +7,7 @@
 
 ## 1. Công cụ và mục đích sử dụng
 
-Tôi sử dụng **Claude (Claude Code)** xuyên suốt: ở các bước trước để hỗ trợ dựng prototype Option A và lên ý tưởng, và ở bước này để đọc tài liệu cùng mã prototype trong repo của nhóm, kiểm tra hành vi của Option A bằng cách chạy mã, rồi soạn bản nháp bộ bài nộp cá nhân. Tôi không dùng công cụ AI nào khác. AI hỗ trợ tạo bản nháp; tôi và nhóm quyết định bối cảnh, phương án thiết kế và nội dung cuối cùng.
+Tôi sử dụng **Claude (Claude Code)** xuyên suốt: ở các bước trước để hỗ trợ dựng prototype Option A và lên ý tưởng, và ở bước này để đọc tài liệu cùng mã prototype trong repo của nhóm, kiểm tra hành vi của Option A bằng cách chạy mã, rồi soạn bản nháp bộ bài nộp cá nhân. Tôi không dùng công cụ AI nào khác cho Option A và bộ bài này. Dữ kiện Day 17 được dẫn từ repo Day 17 của tôi và của Bình; trong repo Day 17 của tôi, tôi đã khai báo dùng Claude Code và NotebookLM (làm sạch transcript buổi phỏng vấn). AI hỗ trợ tạo bản nháp; tôi và nhóm quyết định bối cảnh, phương án thiết kế và nội dung cuối cùng.
 
 Nhật ký này được tổng hợp theo các công việc đã thực hiện, không ghi thời gian hoặc prompt nguyên văn khi chưa có dữ liệu lưu lại.
 

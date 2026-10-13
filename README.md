@@ -27,8 +27,19 @@ Khi đang học (trên lớp hoặc trực tuyến) và gặp phần chưa hiể
 | **Barrier** | Phải rời luồng bài sang công cụ bên ngoài (chụp màn hình, chuyển tab, tự mô tả lại ngữ cảnh) hoặc ghi lại để xem sau. |
 | **Consequence** | Mất thêm thời gian, trì hoãn việc làm rõ; kiến thức chưa hiểu tích tụ thành lỗ hổng và làm chậm tiến độ học các bài tiếp theo. |
 
-- **Dữ kiện quan sát thực tế từ Day 17 làm điểm tựa:** chưa ghi nhận trong bộ bài này; chưa trích dẫn nguyên văn ghi chép Day 17 nên chưa thể coi các hành vi ở mục Barrier là bằng chứng đã kiểm chứng.
-- **Ẩn số cần giải mã bằng ba prototype:** người học muốn tự khởi phát hỗ trợ hay để hệ thống gợi hỏi, và mức công sức thao tác họ chấp nhận khi muốn hỏi đúng phần mình chưa hiểu. Ba option A/B/C được thiết kế để kiểm thử ẩn số này.
+**Dữ kiện thực tế từ Day 17 làm điểm tựa.** Mỗi dữ kiện là lời tự kể của một người được phỏng vấn trong buổi luyện problem interview, chưa phải validation; nội dung dưới đây được diễn ý, không trích nguyên văn.
+
+| Nguồn Day 17 | Dữ kiện | Ủng hộ hay thử thách Hypothesis |
+|---|---|---|
+| P01 do Bình phỏng vấn — [Interview Record](https://github.com/dotrongbinhf/Track1_Day17_2A202602855_DoTrongBinh/blob/main/interview/notes.md) | Khi học trên lớp và bài giảng vẫn tiếp tục, P01 thường chỉ ghi lại để xem sau; chỉ tra cứu bằng ChatGPT hoặc Claude khi có thời gian. P01 nói nếu phải mang bài tập về làm thì không còn thời gian tìm hiểu sâu phần đó; sau một câu hỏi gợi ý của người phỏng vấn, P01 nói thêm là ngại hỏi bạn vì sợ làm phiền. | **Ủng hộ** Situation và Barrier (bài giảng vẫn tiếp tục, ghi lại để xem sau, không có thời gian tra cứu ngay). Hậu quả mới ở mức tự báo cáo có điều kiện, chưa có sự kiện cụ thể. |
+| P1 do tôi phỏng vấn — [Practice Note](https://github.com/phatnguyen2004s/Track1-Day17-2A202602387-NguyenTienPhat/blob/main/03-interview/practice-note.md) | Khi gặp phần chưa hiểu, P1 tra Google (có AI hỗ trợ) và tự đánh giá là nhanh, không quá mất thời gian. P1 thường phải tra lại cùng một kiến thức khoảng 2–3 lần mới nhớ, đôi khi quên luôn; không kể hậu quả nào với việc học. Chưa nêu rõ đây là trên lớp hay tự học. | **Thử thách** Barrier "mất thêm thời gian" và Consequence "lỗ hổng tích tụ": ít nhất một người xử lý nhanh và không thấy phiền. Đồng thời gợi ra một hướng ngoài giả thuyết: kiến thức không đọng lại nên phải tra lặp. |
+
+Dữ kiện Day 17 của Khang chưa được đưa vào bộ bài này. Hai dữ kiện trên đều từ một người, chưa có sự kiện cụ thể kèm ngày và bài học, nên Hypothesis là điểm tựa để thiết kế và thử nghiệm, không phải bài toán đã được kiểm chứng hay giải quyết.
+
+**Ẩn số chưa biết:**
+
+1. **Về vấn đề (từ mâu thuẫn Day 17):** khi bài giảng vẫn tiếp tục, việc ghi lại để xem sau có thật sự khiến kiến thức chưa hiểu tích tụ thành lỗ hổng không, hay người học vẫn tra lại nhanh sau đó và không chịu hậu quả đáng kể như P1 của tôi?
+2. **Về giải pháp (cần giải mã bằng ba prototype):** người học muốn tự khởi phát hỗ trợ hay để hệ thống gợi hỏi, và mức công sức thao tác họ chấp nhận khi muốn hỏi đúng phần mình chưa hiểu. Ba option A/B/C được thiết kế để kiểm thử ẩn số này.
 
 # 3. Three Solution Options
 
@@ -134,6 +145,7 @@ Theo [Group Feedback Synthesis](group-feedback-synthesis.md), **2/3 tester — D
 
 ## STILL UNPROVEN — Những ẩn số còn lại
 
+- Nền Day 17 còn mỏng: hai buổi phỏng vấn đã dẫn ở mục 2 đều từ một người, một bên ủng hộ và một bên thử thách giả thuyết, chưa có sự kiện cụ thể; chưa biết vấn đề đủ lớn để đáng giải quyết ở quy mô người học.
 - Ba tester chưa đủ để khái quát ưu tiên C2 cho toàn bộ người học; chưa có số liệu chứng minh hiểu bài, ghi nhớ hoặc tiết kiệm thời gian tốt hơn A/B.
 - Nhu cầu so sánh hai phần lý thuyết mới ghi nhận ở Khuê; chưa biết người học khác có cần không, và luồng chọn hai nội dung có được dùng thành công không.
 - Chưa biết phần nội dung nào của A bị đánh giá chưa chính xác và A sau khi sửa có thay đổi lựa chọn của người học không.
